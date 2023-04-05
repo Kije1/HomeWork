@@ -1,4 +1,4 @@
-body{
+body {
     background-color: rgb(200, 213, 219);
     margin-right: 20px;
 }
@@ -6,7 +6,7 @@ body{
 
 
 
-.main{
+.main {
     display: flex;
     flex-direction: row-reverse;
     width: 1000px;
@@ -14,52 +14,53 @@ body{
     background-color: white;
 }
 
-.head{
+.head {
     margin-left: 155px;
     margin-right: 70px;
 }
-.dop-contact{
+
+.dop-contact {
     margin-top: 75px;
     margin-bottom: px;
     margin-right: px;
     margin-left: 40px;
-    
+
 }
 
-.osvita{
-    margin-left: 50px;
+.osvita {
+    margin-lef t: 50px;
     margin-top: 40px;
 }
 
-.dosvid{
+.dosvid {
     margin-left: 50px;
     margin-right: 40px;
     margin-top: 40px;
 }
 
-.Left{
+.Left {
     background-color: rgb(185, 183, 183);
     padding-top: 40px;
     width: 370px;
     margin-right: 30px;
-    
+
 }
 
-.photo{
-width: 340px;
-margin-left: 15px;
-margin-bottom: 6px;
-margin-top: -20px;
+.photo {
+    width: 340px;
+    margin-left: 15px;
+    margin-bottom: 6px;
+    margin-top: -20px;
 }
 
-.contacts{
+.contacts {
     margin-left: 30px;
 }
 
-.program-navichki{
+.program-navichki {
     margin-left: 30px;
-} 
+}
 
-.navichki{
+.navichki {
     margin-left: 30px;
 }
